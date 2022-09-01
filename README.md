@@ -7,7 +7,7 @@
 * GET /api/meeting/student/{studentId} => Returns all the meetingRecords for that student
 * GET /api/meeting/doctor/{doctorId} => Returns all the meetingRecords for that doctor
 
-#Configuration 
+# Configuration 
 To change the bot used for the chat the next values need to be modified
 * ibm.api.key: Key found on the IBM Cloud Assistant Service 
 * imb.api.key: url found on the IBM Cloud Assistant Service
